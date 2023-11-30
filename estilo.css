@@ -298,7 +298,7 @@ html{
 
 .skills .skill .trabajo{
     width: 0%;
-    animation: 3s trabajo forwards;
+    animation: 2s trabajo forwards;
 }
 @keyframes trabajo {
     0%{width: 0%;}
@@ -307,7 +307,7 @@ html{
 
 .skills .skill .creatividad{
     width: 0%;
-    animation: 3s creatividad forwards;
+    animation: 2s creatividad forwards;
 }
 @keyframes creatividad {
     0%{width: 0%;}
@@ -316,7 +316,7 @@ html{
 
 .skills .skill .dedicacion{
     width: 0%;
-    animation: 3s dedicacion forwards;
+    animation: 2s dedicacion forwards;
 }
 @keyframes dedicacion {
     0%{width: 0%;}
